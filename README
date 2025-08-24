@@ -1,0 +1,13 @@
+Project Reflection
+
+Work Completed
+I started with a provided notebook and helper files that set up the maze, actions, and neural network structure. From there, I implemented the training loop, added epsilon-greedy action selection, connected the replay buffer, and tuned hyperparameters so the agent could learn to consistently reach the treasure.
+
+Connection to Computer Science
+Computer scientists model problems, design algorithms, and build reliable systems that matter because they solve real-world challenges. In this case, the maze problem is a simplified version of how algorithms can guide decision-making in robotics, navigation, and automation.
+
+Problem-Solving Approach
+My approach was to break the project into components—environment, agent, and learning process—then iterate with testing and tuning. Starting small, verifying progress, and refining step by step reflects the way computer scientists tackle complex problems.
+
+Ethical Responsibilities
+I have a responsibility to ensure that systems are safe, transparent, and used appropriately. That includes protecting data, being honest about performance limits, and building solutions that serve both the end user and the organization responsiblity.
